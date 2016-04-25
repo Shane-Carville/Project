@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MainProject</string>
+    <string name="release_date_app">Release Date App</string>
+    <string name="games">Games</string>
+    <string name="TitleAbout">How to use this app</string>
+    <string name="AboutText">Clicking on the Movies button will take you to a page for all upcoming movie release dates.
+    Clicking on the Games button will take you to a page for all upcoming Video Game release dates.
+    Clicking on the Watch List button will take you to your watch list of games and movies to add an item to a watch list simple hit the button on the watch list page and start adding.</string>
+</resources>
